@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:v3.9.0
+FROM registry.k8s.io/sig-storage/csi-resizer:v1.8.0
