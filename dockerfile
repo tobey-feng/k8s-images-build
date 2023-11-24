@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
