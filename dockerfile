@@ -1,1 +1,1 @@
-FROM rook/ceph:v17.2.6
+FROM coredns/coredns:1.9.4
