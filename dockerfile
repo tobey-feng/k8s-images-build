@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.9.4
+FROM eipwork/kuboard:v3.5.2.7
