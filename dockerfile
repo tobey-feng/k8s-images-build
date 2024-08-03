@@ -1,1 +1,1 @@
-FROM eipwork/kuboard:v3.5.2.7
+FROM node:18
