@@ -1,1 +1,1 @@
-FROM node:18
+FROM starrocks/fe-ubuntu:latest
