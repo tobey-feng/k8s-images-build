@@ -1,1 +1,1 @@
-FROM starrocks/fe-ubuntu:latest
+FROM starrocks/be-ubuntu:latest
