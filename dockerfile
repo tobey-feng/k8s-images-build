@@ -1,1 +1,1 @@
-FROM starrocks/be-ubuntu:latest
+FROM flink:1.20.0
