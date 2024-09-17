@@ -1,1 +1,1 @@
-FROM flink:1.20.0
+FROM seataio/seata-server:1.4.2
