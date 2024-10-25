@@ -1,1 +1,1 @@
-FROM goharbor/harbor-jobservice:v1.10.19
+FROM goharbor/harbor-log:v1.10.19
