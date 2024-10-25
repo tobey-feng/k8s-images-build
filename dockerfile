@@ -1,1 +1,1 @@
-FROM seataio/seata-server:1.4.2
+FROM goharbor/prepare:v1.10.19
