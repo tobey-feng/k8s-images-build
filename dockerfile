@@ -1,1 +1,1 @@
-FROM goharbor/redis-photon:v1.10.19
+FROM goharbor/nginx-photon:v1.10.19
