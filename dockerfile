@@ -1,1 +1,1 @@
-FROM goharbor/harbor-portal:v1.10.19
+FROM goharbor/redis-photon:v1.10.19
