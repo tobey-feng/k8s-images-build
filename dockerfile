@@ -1,1 +1,1 @@
-FROM goharbor/harbor-db:v1.10.19
+FROM goharbor/chartmuseum-photon:v1.10.19
