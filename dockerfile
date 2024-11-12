@@ -1,1 +1,1 @@
-FROM jumpserver/lion:v2.26.1
+FROM jumpserver/lion:v4.3.1
