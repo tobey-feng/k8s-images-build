@@ -1,1 +1,1 @@
-FROM goharbor/chartmuseum-photon:v1.10.19
+FROM kubernetesui/metrics-scraper:v1.0.9
