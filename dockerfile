@@ -1,1 +1,1 @@
-FROM alpine:latest
+FROM redis:7.0-bullseye
