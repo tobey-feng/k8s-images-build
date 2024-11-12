@@ -1,1 +1,1 @@
-FROM redis:7.0-bullseye
+FROM postgres:16.3-bullseye
