@@ -1,1 +1,1 @@
-FROM jumpserver/core:v4.3.1-ce
+FROM jumpserver/koko:v4.3.1-ce
