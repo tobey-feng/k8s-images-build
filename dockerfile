@@ -1,1 +1,1 @@
-FROM postgres:16.3-bullseye
+FROM jumpserver/core:v4.3.1-ce
