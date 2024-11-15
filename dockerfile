@@ -1,1 +1,1 @@
-FROM jumpserver/lion:v3.10.15
+FROM nacos/nacos-peer-finder-plugin:1.1
