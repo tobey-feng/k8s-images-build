@@ -1,1 +1,1 @@
-FROM nacos/nacos-peer-finder-plugin:1.1
+FROM seataio/seata-server:1.4.2
