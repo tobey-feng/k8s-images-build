@@ -1,1 +1,1 @@
-FROM quay.io/brancz/kube-rbac-proxy:v0.18.2
+FROM directxman12/k8s-prometheus-adapter:v0.8.4
