@@ -1,1 +1,1 @@
-FROM prom/mysqld-exporter:v0.16.0
+FROM mysql:5.7
