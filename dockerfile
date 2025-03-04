@@ -1,1 +1,1 @@
-FROM mysql:5.7
+FROM eipwork/etcd-host:3.4.16-2
