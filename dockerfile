@@ -1,1 +1,1 @@
-FROM eipwork/etcd-host:3.4.16-2
+FROM bougou/alertmanager-webhook-adapter:v1.1.8
