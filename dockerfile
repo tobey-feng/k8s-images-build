@@ -1,1 +1,1 @@
-FROM bougou/alertmanager-webhook-adapter:v1.1.7
+FROM bougou/alertmanager-webhook-adapter:v1.1.9
