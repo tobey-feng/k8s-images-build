@@ -1,1 +1,1 @@
-FROM bougou/alertmanager-webhook-adapter:v1.1.9
+FROM docker.io/jumpserver/lion:v4.3.1-ce
