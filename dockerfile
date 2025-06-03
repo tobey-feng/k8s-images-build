@@ -1,1 +1,1 @@
-FROM jumpserver/chen:v4.3.1-ce
+FROM jumpserver/lion:v4.3.1-ce
