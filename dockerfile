@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxyv2:1.26.2
+FROM docker.io/istio/examples-bookinfo-details-v1:1.20.3
