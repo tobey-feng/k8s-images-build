@@ -1,1 +1,1 @@
-FROM docker.io/istio/examples-bookinfo-productpage-v1:1.20.3
+FROM keking/kkfileview:4.4.0
