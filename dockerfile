@@ -1,1 +1,1 @@
-FROM jimmidyson/configmap-reload:v0.5.0
+FROM grafana/grafana:11.2.0
