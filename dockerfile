@@ -1,1 +1,1 @@
-FROM ingress-nginx/controller:v1.13.3
+FROM ingress-nginx/kube-webhook-certgen:v1.6.3
