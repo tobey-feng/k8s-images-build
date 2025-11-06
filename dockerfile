@@ -1,1 +1,1 @@
-FROM grafana/grafana:11.2.0
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
