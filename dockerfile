@@ -1,1 +1,1 @@
-FROM grafana/grafana:9.5.3
+FROM quay.io/prometheus/blackbox-exporter:v0.24.0
