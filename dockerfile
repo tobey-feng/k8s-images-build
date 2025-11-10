@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/blackbox-exporter:v0.24.0
+FROM registry.k8s.io/pause:3.8
