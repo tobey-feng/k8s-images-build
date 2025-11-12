@@ -1,1 +1,1 @@
-FROM registry.k8s.io/pause:3.8
+FROM docker.io/calico/cni:v3.27.4
