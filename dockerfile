@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.27.4
+FROM docker.io/coredns/coredns:1.10.1
