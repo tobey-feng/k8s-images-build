@@ -1,1 +1,1 @@
-FROM busybox:1.28
+FROM eipwork/kuboard:v3
