@@ -1,1 +1,1 @@
-FROM eipwork/kuboard:v3
+FROM questdb/questdb:6.0.5
