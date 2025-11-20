@@ -1,1 +1,1 @@
-FROM  registry.k8s.io/sig-storage/csi-attacher:v4.8.1
+FROM  docker.io/rook/ceph:v1.18.7
