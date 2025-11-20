@@ -1,1 +1,1 @@
-FROM  registry.k8s.io/sig-storage/csi-provisioner:v5.2.0
+FROM  registry.k8s.io/sig-storage/csi-resizer:v1.13.2
