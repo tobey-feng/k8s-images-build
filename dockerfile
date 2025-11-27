@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.9.4
+FROM docker.io/istio/examples-bookinfo-details-v1:1.20.3
