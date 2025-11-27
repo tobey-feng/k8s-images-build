@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxyv2:1.28.0-distroless
+FROM quay.io/kiali/kiali:v2.17
