@@ -1,1 +1,1 @@
-FROM  docker.io/istio/install-cni:1.28.0-distroless
+FROM docker.io/istio/pilot:1.28.0-distroless
