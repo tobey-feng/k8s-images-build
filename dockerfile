@@ -1,1 +1,1 @@
-FROM mysql:5.6
+FROM wordpress:4.6.1-apache
