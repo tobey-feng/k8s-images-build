@@ -1,1 +1,1 @@
-FROM docker.io/istio/ztunnel:1.28.0-distroless
+FROM coredns/coredns:1.9.4
