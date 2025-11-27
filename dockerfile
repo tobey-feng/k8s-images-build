@@ -1,1 +1,1 @@
-FROM ghcr.io/prometheus-operator/prometheus-config-reloader:v0.85.0
+FROM prom/prometheus:v3.5.0
