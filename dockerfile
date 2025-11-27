@@ -1,1 +1,1 @@
-FROM docker.io/istio/examples-bookinfo-productpage-v1:1.20.3
+FROM docker.io/istio/proxyv2:1.28.0-distroless
