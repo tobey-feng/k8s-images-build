@@ -1,1 +1,1 @@
-FROM wordpress:4.6.1-apache
+FROM curlimages/curl:8.16.0
