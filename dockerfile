@@ -1,1 +1,1 @@
-FROM curlimages/curl:8.16.0
+FROM docker.io/grafana/grafana:12.0.1
