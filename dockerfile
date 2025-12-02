@@ -1,1 +1,1 @@
-FROM docker.io/grafana/grafana:12.0.1
+FROM prom/prometheus:v3.5.0
