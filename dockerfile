@@ -1,1 +1,1 @@
-FROM docker.io/jaegertracing/all-in-one:1.70.0
+FROM docker.io/grafana/loki:3.5.5
