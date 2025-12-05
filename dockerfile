@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+FROM quay.io/k8scsi/snapshot-controller:v3.0.2
