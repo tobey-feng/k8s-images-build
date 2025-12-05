@@ -1,1 +1,1 @@
-FROM grafana/grafana:11.2.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
