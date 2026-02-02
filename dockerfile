@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:latest
+FROM mysql:8.0
