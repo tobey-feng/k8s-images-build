@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/node-exporter:v1.8.2
+FROM quay.io/brancz/kube-rbac-proxy:v0.18.1
