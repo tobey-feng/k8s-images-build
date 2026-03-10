@@ -1,1 +1,1 @@
-FROM alextselegidis/easyappointments:latest
+FROM mysql:8.0
