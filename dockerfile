@@ -1,1 +1,1 @@
-FROM quay.io/brancz/kube-rbac-proxy:v0.18.1
+FROM  docker.io/library/node:18-alpin
