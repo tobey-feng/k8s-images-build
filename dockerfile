@@ -1,1 +1,1 @@
-FROM  docker.io/library/node:18-alpin
+FROM  node:18-alpine
