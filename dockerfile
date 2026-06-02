@@ -1,1 +1,1 @@
-FROM  node:18-alpine3.18
+FROM  nacos/nacos-mysql:5.7
