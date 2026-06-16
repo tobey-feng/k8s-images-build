@@ -1,1 +1,1 @@
-FROM nacos/nacos-server:latest
+FROM docker pull redis:7.2
