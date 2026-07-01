@@ -1,1 +1,1 @@
-FROM docker pull redis:7.2
+FROM gitlab/gitab-ce:latest
