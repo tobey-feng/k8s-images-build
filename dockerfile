@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ce:nightly
+FROM gitlab/gitlab-ce:19.0.3-ce.0
