@@ -1,1 +1,1 @@
-FROM gitlab/gitab-ce:latest
+FROM gitlab/gitlab-ce:nightly
