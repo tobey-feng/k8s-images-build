@@ -1,1 +1,1 @@
-FROM redis:7.2
+FROM mongo:7
