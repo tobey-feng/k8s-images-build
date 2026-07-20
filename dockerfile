@@ -1,1 +1,1 @@
-FROM mongo:7
+FROM allinssl/allinssl:latest
