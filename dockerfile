@@ -1,1 +1,1 @@
-FROM allinssl/allinssl:latest
+FROM minio/minio:latest
