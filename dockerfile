@@ -1,1 +1,1 @@
-grafana/grafana:11.2.0
+curlimages/curl
