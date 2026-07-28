@@ -1,1 +1,1 @@
-curlimages/curl
+busybox:latest
