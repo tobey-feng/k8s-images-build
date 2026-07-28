@@ -1,1 +1,1 @@
-quay.io/brancz/kube-rbac-proxy:v0.18.0
+kube-state-metrics/kube-state-metrics:v2.13.0
