@@ -1,1 +1,1 @@
-busybox:latest
+mysql:8.4
