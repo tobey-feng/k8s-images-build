@@ -1,1 +1,1 @@
-FROM langgenius/dify-plugin-daemon:0.6.10-local
+FROM langgenius/dify-agent-backend:1.17.1
