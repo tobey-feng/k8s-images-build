@@ -1,1 +1,1 @@
-FROM mysql:8.4
+FROM langgenius/dify-agent-local-sandbox:1.17.1
