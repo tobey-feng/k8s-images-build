@@ -1,1 +1,1 @@
-FROM cr.weaviate.io/semitechnologies/weaviate:1.39.2
+FROM oceanbase/oceanbase-ce:4.3.5-lts
