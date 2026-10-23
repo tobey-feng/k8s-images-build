@@ -1,1 +1,1 @@
-FROM ubuntu/squid:latest
+FROM certbot/certbot
