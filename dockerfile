@@ -1,1 +1,1 @@
-FROM minio/minio:latest
+FROM tduckcloud/tduck-platform
